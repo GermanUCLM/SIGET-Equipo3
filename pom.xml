@@ -23,7 +23,8 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<sonar.projectKey>GermanUCLM_SIGET-Equipo3</sonar.projectKey>
 		<sonar.organization>germanuclm</sonar.organization>
-		<sonar.host.url>https://sonarcloud.io</sonar.host.url> 
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.sources>pom.xml,src/main/java,src/main/resources,src/test/resources/java/es/uclm/esi/features</sonar.sources>
 	</properties>
 
 	<dependencies>
